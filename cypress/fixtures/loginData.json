@@ -1,0 +1,12 @@
+{
+  "validUsername": "Admin",
+  "validPassword": "admin123",
+  "invalidUsername": "UserSalah",
+  "invalidPassword": "passSalah",
+  "empty": "",
+  "space": "   ",
+  "longUsername": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+  "longPassword": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB",
+  "symbolUsername": "$&@*`~^|^~",
+  "symbolPassword": "#####"
+}
