@@ -108,5 +108,3 @@ describe("API Testing Reqres.in with Cypress", () => {
     });
   });
 });
-
-// gtw error semua gapaham.
